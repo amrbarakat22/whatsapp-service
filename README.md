@@ -72,3 +72,13 @@ $response = Http::withHeaders([
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Original Repository
+
+This repository was copied to **amrbarakat22** while preserving the original Git history.
+
+Original repository:
+
+https://github.com/Nuhoud/whatsapp-service
